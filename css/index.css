@@ -1,0 +1,25 @@
+.imgLogo{
+    width: 150px;
+    height: 60px;
+}
+.margen{
+    margin-left: 30px;
+}
+.letterColor{
+ color: #212121;
+}
+.btntam{
+    height: 5px;
+    width: 5px;
+}
+.aumentar:hover{
+    transform: scale(1.4);
+}
+.tam-contactos{
+    height: 40px;
+    width: 40px;
+}
+.tam-img{
+    width: 100px;
+    height: 110px;
+}
